@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,СТС (+2)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1510/stream.m3u8
-#EXTGRP:"StreamerTV;3.11.23;Общие"
+#EXTGRP:"StreamerTV";"3.11.23";"Общие"
 #EXTINF:0,Домашний
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/14/stream.m3u8
 #EXTGRP:StreamerTV;3.11.23;Общие
