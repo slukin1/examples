@@ -51,6 +51,11 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1285/str
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1286/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 HD (+4)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/21/stream.m3u8
-
-
-
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",ТВ Центр
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/668/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",ТВ Центр (+4)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1585/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",ТВ Центр HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/2051/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",English Club HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1428/stream.m3u8
