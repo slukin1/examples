@@ -25,6 +25,8 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1551/str
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/4/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",НТВ Mir
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/22/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",НТВ Int
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/739/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый канал (+2)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/40/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый канал
