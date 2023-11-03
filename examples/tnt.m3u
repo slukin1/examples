@@ -13,3 +13,5 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/14/strea
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1493/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Домашний (+4)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1001/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Домашний (+7)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1538/stream.m3u8
