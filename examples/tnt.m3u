@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",СТС (+2)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1510/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",СТС (+4)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1511/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",СТС (+6)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1512/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",СТС (+8)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/13/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Домашний
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/14/stream.m3u8
