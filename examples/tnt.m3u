@@ -31,3 +31,26 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/40/strea
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/287/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый канал HD
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый Канал HD (+4)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/43/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый канал (+6)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/475/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+2)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/727/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+4)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1714/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+6)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1283/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/337/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+8)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1284/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1285/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 HD (+2)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1286/stream.m3u8
+#EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 HD (+4)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/21/stream.m3u8
+
+
+
