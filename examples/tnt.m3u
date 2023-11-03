@@ -37,6 +37,24 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1/stream
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/43/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Первый канал (+6)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/475/stream.m3u8
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый HD
+http://4.troya.one:34000/ch001/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf8Yl0TiqjQN3b1JGGdrkKgZVq-w82kVPUDjXw27SiiKd
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый HD (Uncomp)
+http://4.troya.one:34000/ch1089/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf6gGObLnfBIXndrKLNlsQEtyjaiV2dlXmETRTMmcPWKk
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый
+http://4.troya.one:34000/ch1643/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfyUzU_fNrDDQ6a-ST38oq4JtCRdUtcH3osqyjwextY2a
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый +2
+http://4.troya.one:34000/ch363/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfwtY_g4pevR4rU8w94xBs3whxNfK0txh8uqPMyp5c8oE
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый +4
+http://4.troya.one:34000/ch364/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf6u4xj7GieHwWAEDk3vwmdoTzj9-_ZZzMCIrRf93LqY1
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый +6
+http://4.troya.one:34000/ch386/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf4-7Ub57BGCK4YbddKZ5nT0Pckm8gwHDmvdK3X0l2JWv
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый +8
+http://4.troya.one:34000/ch387/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kfw9nhn3VXgVOQKcNHzOv-7dSj_httzloYE-0zfRNdVLQ
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый HD +4
+http://4.troya.one:34000/ch635/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf33E4voX7cqjARH5P2dqjcRJgvAIk15YBzxp4RWlA87B
+#EXTINF:0 group-title="TroyaTV;3.11.23;Общие", Первый Евpопa
+http://4.troya.one:34000/ch649/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfxzHvAiBGGh72tRZhU9ocS1n-qPZFFnteJP3TmWCgU9u
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+2)
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/727/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",Россия 1 (+4)
@@ -65,3 +83,35 @@ http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1428/str
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/707/stream.m3u8
 #EXTINF:0 group-title="StreamerTV;3.11.23;Общие",КВН ТВ
 http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/37/stream.m3u8
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Кинокомедия HD
+http://4.troya.one:34000/ch460/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf4fmT1nlRlXCKUNOi069OjKDHqCCJFQckeXiHezEE2EA
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Viju+ Comedy HD
+http://4.troya.one:34000/ch058/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfxKssk5gq60BP0pi1KZaSAbr8zmKFklngKBMp55iuovE
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Комедия
+http://4.troya.one:34000/ch105/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf94hZiJmwHstLIxN1sAYJC9TzEZgPVcVV-r3jrNMNHwN
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Комедийное HD
+http://4.troya.one:34000/ch136/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf-Z7Ja_5-S-fWfCgY9Sa74w8Z38YLKyZNONas2VL1Afn
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", BCU Comedy HD
+http://4.troya.one:34000/ch772/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfyiXojrHp8s9O_sX2ggLcCGKUA0nkq7_1FQT8uWVXWip
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", BCU Comedy OLD
+http://4.troya.one:34000/ch1000/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfxtCirzUERSTe2blayKr-ZHlbc9JkUe9ZBi0x22IXm7V
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", KBC-Russian Комедия
+http://4.troya.one:34000/ch1013/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf-kGsnBzf9PjsZNRVT6leFogEA7ql5ErNRx0AA5zeQ6E
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", CineMan Комедия
+http://4.troya.one:34000/ch1037/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf5m8_ElJeQ8KuGX6aaeie_mmglLV__6gAzRehRrHDJGB
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", MM Комедия Classic HD
+http://4.troya.one:34000/ch1242/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215KfwIx-fwhAOiZcK8OGHiCSXdmSoGP4hpmAO23HQzg9_MR
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", MM Комедия HD
+http://4.troya.one:34000/ch1243/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf2psRKQIGRp6z5W4C61-vXqjs9i5gQ7s7CzUJS9R2GO7
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Yosso TV C-Comedy
+http://4.troya.one:34000/ch1002/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf5SgjX1nji8rpcat6B8PS_abwwL3U4l_CyF4PQ2Ke51s
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Magic Comedy
+http://4.troya.one:34000/ch1557/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kfyw_6fgiA2EwAp54KvM56JSbw9E7vJVShPoqjbEMRpG4
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Fresh Comedy
+http://4.troya.one:34000/ch1723/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf0Mbw9Tn-jYcdPlpsAhYjA6uzynhdqP2jXMbUHEteBlj
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Liberty Комедии FHD
+http://4.troya.one:34000/ch1754/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf-hBnGw7IrAwqXBadNnqtKt3L0HuUmF_jxLR9VFSEZT1
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", KLI Comedy HD
+http://4.troya.one:34000/ch2268/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf0SdEkRPAeUrCy-KnJ3haRBaBBYDaTCQfywIvBiypwHf
+#EXTINF:0 group-title="TroyaTV;3.11.23;Кино", Clarity4K Комедия
+http://4.troya.one:34000/ch1187/mono.m3u8?token=anatoly_2008.AxTzvXg6mcOEFjS2215Kf5-Ag3NEFDNpWvrCYm1kEu4Iywwur_jDJbPZUiHWpMS4
